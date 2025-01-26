@@ -1,6 +1,3 @@
-##### VeerVSR~About
-
-
 # Gotham Chronicles: My Story 🦇
 ---
 ### Hi, I am VeerVSR  
