@@ -1,5 +1,5 @@
 # Gotham Chronicles: My Story 🦇
----
+
 ### Hi, I am VeerVSR  
 
 I am a passionate Computer Science Engineering (CSE) student specializing in ***Artificial Intelligence and Machine Learning***. I am driven by a deep fascination with the transformative power of technology and its potential to solve real-world problems.
