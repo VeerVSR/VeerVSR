@@ -2,9 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RzZW1hOWtqdXg0bTN0Nnl0Z2N5aGl4b2lqcXdxMTc1a2FnbmR6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwkQ2vD50Vn1v6U/giphy.gif" alt="Dark City Skyline GIF" width="100%" />
-</p>
 
 ### Hi, I am **VeerVSR** 🌃
 
@@ -12,9 +9,7 @@ I am a passionate **Computer Science Engineering (CSE)** student specializing in
 
 Like a shadow in the city, I thrive on exploring innovative **AI/ML solutions** that bring value to industries and create meaningful impact. My academic journey has equipped me with strong technical skills, a problem-solving mindset, and the ability to think creatively in dynamic environments.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM0bHZ4bnpvNjhmNTFqdDczZm53eXg0ZnE5am5xZHNwbDB3cmE1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgQ7Vhx NEMd2gP3/giphy.gif" alt="Binary Code Rain GIF" width="70%" />
-</p>
+=
 
 📚 **What I’m Learning:**
 I’m committed to staying ahead in this rapidly evolving field by continuously learning new technologies, tools, and frameworks, akin to uncovering the secrets of Gotham.
